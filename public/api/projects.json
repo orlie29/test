@@ -10,10 +10,10 @@
         "title": "B:Pressure",
         "city": "Bucharest",
         "category": "Monogram",
-        "image": "/assets/images/BPressureLive.jpg",
+        "image": "/assets/images/bPressureLive.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "/assets/images/bPressureLive.jpg"
         ]
       }
     },
@@ -26,10 +26,10 @@
         "title": "Timber Rivet Ciders",
         "city": "Toronto",
         "category": "Badge",
-        "image": "assets/images/MDigitalTransparent.png",
+        "image": "assets/images/mDigitalTransparent.png",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "/assets/images/bBPressureLive.jpg"
         ]
       }
     },
@@ -42,7 +42,7 @@
           "title": "Contact Box",
           "city": "Timisoara, Romania",
           "category": "composition",
-          "image": "/assets/images/Compozitie-CasaCuFrunze.mp4",
+          "image": "/assets/images/compozitie-CasaCuFrunze.mp4",
           "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
           "secondaryimages": [
             "/assets/images/BPressureLive.jpg"
@@ -59,7 +59,7 @@
         "title": "Organic Baby",
         "city": "Portland",
         "category": "Pictogram",
-        "image": "assets/images/OrganicBaby.jpg",
+        "image": "assets/images/organicBaby.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
           "/assets/images/BPressureLive.jpg"
@@ -91,7 +91,7 @@
         "title": "Cabinet de Avocat Ovidiu Rez",
         "city": "Timisoara, Romania",
         "category": "Monograms",
-        "image": "/assets/images/OvidiuRezMockup.jpg",
+        "image": "/assets/images/ovidiuRezMockup.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
           "/assets/images/BPressureLive.jpg"
