@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "powella",
+    "attributes": {
+      "singleimage": true,
+      "title": "Powella",
+      "category": "Badge",
+      "image": "assets/images/Powella.png",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+    "data": {
+      "type": "projects",
+      "id": "moon-party",
+      "attributes": {
+        "singleimage": false,
+        "title": "Moon Party Poster",
+        "owner": "Confidential",
+        "city": "Munchen, Germany",
+        "category": "Poster",
+        "bedrooms": 1,
+        "image": "public/assets/images/Moonparty.jpg",
+        "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+      }
+    }
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "redeemable",
+    "attributes": {
+      "singleimage": false,
+      "title": "Redeemable",
+      "city": "Portland",
+      "category": "Badge",
+      "image": "assets/images/Redeemable.png",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

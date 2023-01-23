@@ -1,0 +1,16 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "timber-rivet",
+    "attributes": {
+      "singleimage": false,
+      "title": "Timber Rivet Ciders",
+      "owner": "TRC",
+      "city": "Portland",
+      "category": "Badge",
+      "bedrooms": 3,
+      "image": "assets/images/TimberRivedMocked.jpg",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "ojatro-visuals",
+    "attributes": {
+      "singleimage": false,
+      "title": "Ojatro Visuals",
+      "city": "Portland",
+      "category": "Icon",
+      "image": "assets/images/TimberRivedMocked.jpg",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

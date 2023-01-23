@@ -1,0 +1,300 @@
+@import url(https://fonts.googleapis.com/css?family=Lato:300,300italic,400,700,700italic);
+
+/**
+ * Base Elements
+ */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+div,
+span,
+a,
+button {
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  border: none;
+  font-weight: 600;
+  margin:0;
+
+}
+
+body {
+  background: transparent;
+  padding: 0;
+}
+
+a {
+  color: #016aba;
+  text-decoration: none;
+}
+
+button {
+  font-size: 100%;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 15px;
+}
+
+/**
+ * Button
+ */
+
+/**
+ * Body Container
+ */
+
+ .video-js {
+  width: 100% !important;
+  height:auto;
+  border: none;
+  margin: 0;
+}
+
+.container {
+  max-width: 1024px;
+  min-height: 100vh;
+
+}
+/**
+ * Top Navigation
+ */
+
+img {
+  width: 100%;
+}
+
+.rental {
+  z-index: 1;
+}
+.secondary-image-holder {
+  z-index: 3;
+}
+
+.misc-content {
+  margin: auto;
+}
+
+.individual img {
+  background-size: cover;
+  padding: 65px;
+}
+
+.menu {
+  height: 8em;
+  background-color: black;
+  
+}
+
+.secondary-image:hover{
+  background-color: #016aba;
+  opacity:66%;
+  transition: ease-in 0.5s;
+}
+
+.secondary-image::before:hover{
+  
+}
+
+.menu .col-md-3 {
+  margin: auto;
+  color: white;
+  text-align: center;
+  font-weight: 600;
+}
+.pages {
+  margin: auto;
+  color: white;
+  text-align: center;
+}
+
+.secondary-image {
+  width: 100%;
+}
+
+.menu h2 {
+  color: #fff;
+  font-size: 2.3em;
+}
+
+.menu a,
+.menu .links {
+  display: inline-block;
+}
+
+.menu a {
+  text-decoration: none;
+  padding: 0 15px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.menu a:hover,
+.menu a.active {
+  opacity: 1;
+}
+
+.menu .links {
+  padding: 0 21px;
+}
+
+.menu .links a {
+  position: relative;
+  bottom: 5px;
+}
+
+.menu input:focus {
+  outline: none;
+}
+
+.menu button {
+  margin-right: 15px;
+  position: relative;
+  top: -1px;
+  left: -5px;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  background-color: #262626;
+  cursor: pointer;
+  opacity: 1;
+}
+
+.menu button:hover {
+  background-color: #111;
+  opacity: 1;
+}
+
+.menu .results {
+  display: none;
+  position: absolute;
+  width: 215px;
+  top: 54px;
+  left: 10px;
+  background-color: #f6f6f6;
+  border-right: 1px solid rgba(0, 0, 0, 0.05);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.detailed {
+	-webkit-animation: puff-in-ver 0.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+	        animation: puff-in-ver 0.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
+}
+
+
+.secondary-image-holder {
+  z-index: 100;
+}
+
+.details {
+  margin: auto;
+}
+
+@-webkit-keyframes puff-in-ver {
+  0% {
+    -webkit-transform: scaleY(2);
+            transform: scaleY(2);
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+@keyframes puff-in-ver {
+  0% {
+    -webkit-transform: scaleY(2);
+            transform: scaleY(2);
+    -webkit-filter: blur(4px);
+            filter: blur(4px);
+    opacity: 0;
+  }
+  100% {
+    -webkit-transform: scaleY(1);
+            transform: scaleY(1);
+    -webkit-filter: blur(0px);
+            filter: blur(0px);
+    opacity: 1;
+  }
+}
+
+.results li {
+  list-style: none;
+  padding: 10px 15px;
+}
+
+/**
+ * Content Area
+ */
+
+/**
+ * Similar to Jumbotron
+ */
+
+
+/**
+ * Individual Rental Listing
+ */
+
+.rental {
+  margin: auto;
+  align-items: center;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+
+.logo-holder {
+  margin: auto;
+}
+
+.logo img{
+  width: 145px;
+}
+
+
+
+
+.rental .image img {
+  max-width: 100%;
+}
+
+/**
+ * Utilities
+ */
+
+.light {
+  font-weight: 300;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.hidden {
+  display: none;
+}
+
+.relative {
+  position: relative;
+}

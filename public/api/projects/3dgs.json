@@ -1,0 +1,17 @@
+{
+    "data": {
+      "type": "projects",
+      "id": "3dgs",
+      "attributes": {
+        "singleimage": false,
+        "title": "3D Geological Systems",
+        "owner": "Confidential",
+        "city": "Portland",
+        "category": "3D",
+        "bedrooms": 3,
+        "image": "assets/images/3DGSMock.jpg",
+        "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+      }
+    }
+}
+  

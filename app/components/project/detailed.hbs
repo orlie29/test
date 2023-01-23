@@ -1,0 +1,28 @@
+
+<div class="project detailed">
+  <div class="misc-content row">
+    {{#each @project.secondaryimages as | image | }}
+    <div class="col-sm-4 secondary-image-holder">
+      <img 
+        class="secondary-image image-{{@project.id}}"
+        alt="{{@project.title}}" 
+        src={{ image }}
+      >
+    </div>
+    {{/each}}
+  </div>
+  <div class="row details">
+    <h5>{{@project.title}}</h5>
+    <p>{{@project.description}}</p>
+     <ShareButton
+    @text="Check out {{@project.title}} on Super projects!"
+    @hashtags="vacation,travel,authentic,blessed,superprojects"
+    @via="emberjs"
+  >
+    Share on Twitter
+  </ShareButton>
+  </div>
+
+ 
+
+</div>

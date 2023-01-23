@@ -1,0 +1,16 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "ovidiu-rez",
+    "attributes": {
+      "singleimage": true,
+      "title": "Cabinet de Avocat Ovidiu Rez",
+      "owner": "Ovidiu Rez",
+      "city": "Timisoara, Romania",
+      "category": "Monograms",
+      "bedrooms": 1,
+      "image": "/assets/images/OvidiuRezMockup.jpg",
+      "description": "A commuters dream. This rental is within walking distance of 2 bus stops and the Metro."
+    }
+  }
+}

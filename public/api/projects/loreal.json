@@ -1,0 +1,14 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "concepts",
+    "attributes": {
+      "singleimage": false,
+      "title": "Loreal Concept Web Mockup",
+      "city": "Portland",
+      "category": "Web-Design",
+      "image": "assets/images/Loreal.jpg",
+      "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+    }
+  }
+}

@@ -1,0 +1,15 @@
+<div class="rentals">
+  {{!-- <label>
+    <Input @value={{this.query}} class="light" />
+  </label> --}}
+
+  <div class="results">
+    <Projects::Filter @projects={{@projects}} @query={{this.query}} as | results |>
+      <div class="row">
+      {{#each results as |project|}}
+        <Project  @project={{project}} />
+      {{/each}}
+      </div>
+    </Projects::Filter>
+  </div>
+</div>

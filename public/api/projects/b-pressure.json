@@ -1,0 +1,16 @@
+{
+  "data": {
+    "type": "projects",
+    "id": "b-pressure",
+    "attributes": {
+      "singleimage": false,
+      "title": "B:Pressure",
+      "owner": "Bucharest Pressure",
+      "city": "Bucharest",
+      "category": "Monogram",
+      "bedrooms": 15,
+      "image": "/assets/images/BPressureLive.jpg",
+      "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests."
+    }
+  }
+}
