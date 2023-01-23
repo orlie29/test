@@ -3,19 +3,11 @@
   {{#if this.isLarge }}
     <Project::Detailed class="details-view" @project={{@project}}/>
   {{else}}
-    {{#if @project.video}}
 
-    <div data-vjs-player>
-      <video ...attributes options autoplay poster={{@project.poster}} class="" style="width: 100%;">
-          <source src={{@project.image}} type="video/mp4">
-      </video>
-    </div>
-    {{else}}
       <Project::Image class="image-view" @project={{@model}}
         src={{@project.image}}
         alt="A picture of {{@project.title}}"
       />
-    {{/if}}
     
   {{/if}}
 
