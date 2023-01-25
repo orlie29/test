@@ -1,4 +1,4 @@
-<div class="rental col-md-4 {{if @project.singleimage 'individual' 'presentation'}}" {{on "click" this.toggleSize}}>
+<div class="rental col-md-4 {{if @project.singleimage 'individual' 'presentation'}}">
   
   {{#if this.isLarge }}
     <Project::Detailed class="details-view" @project={{@project}}/>
