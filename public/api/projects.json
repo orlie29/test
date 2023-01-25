@@ -10,10 +10,10 @@
         "title": "B:Pressure",
         "city": "Bucharest",
         "category": "Monogram",
-        "image": "/assets/images/bPressureLive.jpg",
+        "image": "images/bPressureLive.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/bPressureLive.jpg"
+          "images/bPressureLive.jpg"
         ]
       }
     },
@@ -26,10 +26,10 @@
         "title": "Timber Rivet Ciders",
         "city": "Toronto",
         "category": "Badge",
-        "image": "assets/images/mDigitalTransparent.png",
+        "image": "images/mDigitalTransparent.png",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/bBPressureLive.jpg"
+          "images/bBPressureLive.jpg"
         ]
       }
     },
@@ -42,10 +42,10 @@
           "title": "Contact Box",
           "city": "Timisoara, Romania",
           "category": "composition",
-          "image": "/assets/images/compozitie-CasaCuFrunze.mp4",
+          "image": "images/compozitie-CasaCuFrunze.mp4",
           "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
           "secondaryimages": [
-            "/assets/images/BPressureLive.jpg"
+            "images/BPressureLive.jpg"
           ]
         }
       },
@@ -59,10 +59,10 @@
         "title": "Organic Baby",
         "city": "Portland",
         "category": "Pictogram",
-        "image": "assets/images/organicBaby.jpg",
+        "image": "images/organicBaby.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "images/BPressureLive.jpg"
         ]
       }
     },
@@ -75,10 +75,10 @@
         "title": "3D Geological Systems",
         "city": "Portland",
         "category": "3D",
-        "image": "assets/images/3DGSMock.jpg",
+        "image": "images/3DGSMock.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "images/BPressureLive.jpg"
         ]
       }
     },
@@ -91,10 +91,10 @@
         "title": "Cabinet de Avocat Ovidiu Rez",
         "city": "Timisoara, Romania",
         "category": "Monograms",
-        "image": "/assets/images/ovidiuRezMockup.jpg",
+        "image": "images/ovidiuRezMockup.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "images/BPressureLive.jpg"
         ]
       }
     },
@@ -107,10 +107,10 @@
         "title": "Pergolas",
         "city": "Bucharest",
         "category": "Icon",
-        "image": "/assets/images/Pergolas.png",
+        "image": "images/Pergolas.png",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "images/BPressureLive.jpg"
         ]
       }
     },
@@ -124,11 +124,11 @@
         "owner": "TRC",
         "city": "Timisoara",
         "category": "Badge",
-        "image": "assets/images/SuraTransparent.png",
+        "image": "images/SuraTransparent.png",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg",
-          "assets/images/SuraTransparent.png"
+          "images/BPressureLive.jpg",
+          "images/SuraTransparent.png"
         ]
         }
       },
@@ -141,10 +141,10 @@
         "title": "Loreal Concept Web Mockup",
         "city": "Portland",
         "category": "Web-Design",
-        "image": "assets/images/Loreal.jpg",
+        "image": "images/Loreal.jpg",
         "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
         "secondaryimages": [
-          "/assets/images/BPressureLive.jpg"
+          "images/BPressureLive.jpg"
         ]
       }
     },
@@ -157,7 +157,7 @@
         "title": "Powella",
         "city": "Portland",
         "category": "Badge",
-        "image": "assets/images/LyonessWinesTransparent.png",
+        "image": "images/LyonessWinesTransparent.png",
         "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
         }
     },
@@ -170,7 +170,7 @@
           "title": "Redeemable",
           "city": "Portland",
           "category": "Badge",
-          "image": "assets/images/Redeemable.png",
+          "image": "images/Redeemable.png",
           "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
         }
       },
@@ -183,8 +183,8 @@
           "title": "Powella",
           "city": "Portland",
           "category": "Badge",
-          "image": "assets/images/Powella.png",
-          "description": "Convenience is at your doorstep with this charming downtown rental. Great restaurants and active night life are within a few feet."
+          "image": "images/Powella.png",
+          "description": "Convenience is at your doorstep with this charming downtown rental. Great restauranimagests and active night life are within a few feet."
         }
       },
       {
@@ -196,10 +196,10 @@
           "title": "Moon Party Poster",
           "city": "Munchen, Germany",
           "category": "Poster",
-          "image": "/assets/images/Moonparty.jpg",
+          "image": "images/Moonparty.jpg",
           "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
           "secondaryimages": [
-            "/assets/images/BPressureLive.jpg"
+            "images/BPressureLive.jpg"
           ]
         }
       },
@@ -212,10 +212,10 @@
           "title": "Moon Party Poster",
           "city": "Munchen, Germany",
           "category": "Poster",
-          "image": "/assets/images/Moonparty.jpg",
+          "image": "images/Moonparty.jpg",
           "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
           "secondaryimages": [
-            "/assets/images/BPressureLive.jpg"
+            "images/BPressureLive.jpg"
           ]
         }
       },
@@ -228,10 +228,10 @@
           "title": "Contact Box",
           "city": "Timisoara, Romania",
           "category": "Logo",
-          "image": "/assets/images/ContactBox.gif",
+          "image": "images/ContactBox.gif",
           "description": "This grand old mansion sits on over 100 acres of rolling hills and dense redwood forests.",
           "secondaryimages": [
-            "/assets/images/BPressureLive.jpg"
+            "/images/BPressureLive.jpg"
           ]
         }
       }
